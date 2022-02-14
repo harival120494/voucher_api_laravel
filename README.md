@@ -11,6 +11,7 @@ INSTALLATION INSTRUCTION
 
 API Documentation
 ===========================
+<pre>
 1. Check the customer eligible to get the voucher
     URL : http://localhost:8000/transaction/check_customer/8
     Method : GET
@@ -56,3 +57,4 @@ API Documentation
     {
         "message": "you have passed the time limit"
     }
+</pre>
